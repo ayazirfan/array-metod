@@ -1,0 +1,2 @@
+# array-metod
+odev
